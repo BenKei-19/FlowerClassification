@@ -24,5 +24,5 @@ I have highest accuracy with fine-turning model, reach nearly 80% accuracy.
 
 ## Requirements
 * **Python**
-* **Basic knowledge of nlp**
-* **Cosine similarity**
+* **CNN**
+* **Transfer Learning**
